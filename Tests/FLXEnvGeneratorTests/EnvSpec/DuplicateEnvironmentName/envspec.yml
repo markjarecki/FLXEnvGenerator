@@ -1,0 +1,7 @@
+environments:
+    - development
+    - development
+settings:
+    development:
+        - PRODUCT_NAME: EnvsDV
+        - STORYBOARD_NAME: LaunchScreen-development

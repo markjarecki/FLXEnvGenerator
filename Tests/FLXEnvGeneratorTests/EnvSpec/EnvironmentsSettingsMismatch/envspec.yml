@@ -1,0 +1,8 @@
+environments:
+    - a
+    - b
+settings:
+    mismatchedSetting:
+        - PRODUCT_NAME: EnvsDV
+    b:
+        - PRODUCT_NAME: EnvsTF

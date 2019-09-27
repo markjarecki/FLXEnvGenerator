@@ -1,0 +1,10 @@
+settings:
+    development:
+        - PRODUCT_NAME: EnvsDV
+        - STORYBOARD_NAME: LaunchScreen-development
+    testflight:
+        - PRODUCT_NAME: EnvsTF
+        - STORYBOARD_NAME: LaunchScreen-testflight
+    appstore:
+        - PRODUCT_NAME: Envs
+        - STORYBOARD_NAME: LaunchScreen-appstore
